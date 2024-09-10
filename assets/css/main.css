@@ -2003,7 +2003,7 @@ section,
 }
 
 .chat-btn.call {
-  background-color: #00e676;
+  background-color: var(--accent-color);
   color: white;
   display: none;
 }
