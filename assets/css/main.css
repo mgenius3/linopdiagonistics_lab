@@ -2010,7 +2010,6 @@ section,
 
 .chat-btn.whatsapp {
   background-color: var(--accent-color);
-
   color: white;
   display: none;
 }
