@@ -2019,12 +2019,12 @@ section,
   color: white;
 }
 
-.chat-btn:hover {
+/* .chat-btn:hover {
   transform: scale(1.1);
-}
+} */
 
 .show {
-  display: block !important;
+  display: flex !important;
 }
 .hide {
   display: none !important;
